@@ -3,7 +3,7 @@ MinGW，是Minimalist GNUfor Windows的缩写。它是一个可自由使用和�
 一、进入网站
 ![image](https://github.com/ItisMMQ/Images/blob/master/MinGW_website.jpg)
 二、点击右上角的下载。进入页面：
-<div align=center>![image](https://github.com/ItisMMQ/Images/blob/master/MinGW2.jpg）
+![image]<div align=center>(https://github.com/ItisMMQ/Images/blob/master/MinGW2.jpg）
 或者:
 <div align=center>![image](https://github.com/ItisMMQ/Images/blob/master/MinGW2-2.jpg)
 三、选择对应操作系统的安装包，下载。建议安装到C盘根目录下或其他不杂乱的地方。
